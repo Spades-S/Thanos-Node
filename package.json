@@ -1,0 +1,16 @@
+{
+  "name": "thanos-node",
+  "version": "1.0.0",
+  "description": "Delete half your files randomly. Be careful.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "delete",
+    "randomly",
+    "half"
+  ],
+  "author": "Spades <spadesge@gmail.com>",
+  "license": "ISC"
+}
